@@ -11,3 +11,11 @@
   background-color: black;
   color: white;
 }
+.linea5y6 {
+  text-transform: uppercase;
+  color: blue;
+}
+#linea7 {
+  text-shadow: 2px 2px pink;
+  font-size: 50px;
+}
