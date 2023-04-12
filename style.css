@@ -1,0 +1,40 @@
+#Vaquita {
+  width: 200px;
+  height: 200px;
+  margin-left: 600px;
+  display: block;
+  filter: drop-shadow(5px 5px pink);
+}
+#titulovaca {
+  text-align: center;
+  color: pink;
+}
+#parrafo1 {
+  text-align: center;
+}
+#gato {
+  width: 200px;
+  height: 200px;
+  margin-left: 0px;
+  filter: drop-shadow(10px 10px burlywood);
+}
+#titulogato {
+  color: burlywood;
+  text-align: left;
+}
+#parrafo2 {
+  text-align: left;
+}
+#Huron {
+  width: 200px;
+  height: 200px;
+  margin-left: 1200px;
+  filter: drop-shadow(10px 10px lightskyblue);
+}
+#titulohuron {
+  text-align: right;
+  color: lightskyblue;
+}
+#parrafo3 {
+  text-align: right;
+}
